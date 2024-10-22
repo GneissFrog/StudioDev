@@ -5,7 +5,7 @@ Note: Requires Internet connection to fetch asset_index jsons.
 _____________________________________________________________________________________________________________________________
 How to use:
 
-Check the tutorial [here](https://gist.github.com/Modder4869/0f5371f8879607eb95b8e63badca227e) (Thanks to Modder4869 for the tutorial)
+Check the tutorial [here](https://gist.github.com/Modder4869/0f5371f8879607eb95b8e63badca227e) 
 _____________________________________________________________________________________________________________________________
 CLI Version:
 ```
